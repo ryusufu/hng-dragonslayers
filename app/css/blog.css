@@ -105,7 +105,7 @@ ul li a.active-link {
 
 .author-image img {
     height: auto;
-    width: 50%
+    width: 50%;
 }
 
 .article-title {
@@ -246,4 +246,16 @@ div.user-action {
 
 hr {
     border: 1px solid #DADADA;
+=======
+.social-icons {
+    display: flex;
+    justify-content:center;
+}
+
+.fa-github{
+    margin-right: 9px;
+}
+
+.fa-medium{
+    margin-right: 9px;
 }
