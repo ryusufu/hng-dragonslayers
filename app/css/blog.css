@@ -259,3 +259,7 @@ hr {
 .fa-medium{
     margin-right: 9px;
 }
+
+hr{
+    width: 80%;
+}
