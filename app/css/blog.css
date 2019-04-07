@@ -149,3 +149,7 @@ ul li a.active-link {
 .fa-medium{
     margin-right: 9px;
 }
+
+hr{
+    width: 80%;
+}
