@@ -203,7 +203,7 @@ div.user-data {
 
 
 div.user-action {
-    align-content: center;
+    text-align: center;
     width: 15%;
     float: left;
 }
