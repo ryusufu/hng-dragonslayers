@@ -34,7 +34,7 @@ body {
     float: left;
     height: 100%;
     padding-top: 30px;
-    position: absolute;
+    position: fixed;
     text-align: center;
     width: 25%;
 }
@@ -246,7 +246,7 @@ div.user-action {
 
 hr {
     border: 1px solid #DADADA;
-=======
+}
 .social-icons {
     display: flex;
     justify-content:center;
