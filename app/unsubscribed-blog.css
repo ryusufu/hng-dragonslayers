@@ -1,0 +1,52 @@
+.page{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+.profile{
+    width:25%;
+    background-color: #E5E5E5;
+    height: 50rem;
+}
+.article-body{
+    width: 65%;
+    background-color: white;
+    justify-self: flex-end;
+    margin-right: 5rem;
+  
+
+}
+.comment-outline{
+    display: flex;
+    margin-top: -2rem;
+    margin-left: 10rem;
+}
+.user-profile{
+    text-align: center;
+    margin-top:2rem;
+}
+.social-icons{
+    text-align: center;
+}
+.horizontal-line{
+    border: 1px solid #DADADA;
+    margin: 3rem 0 3rem 4rem;
+    width: 12.43rem;
+}
+
+.profile-links a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+    
+  
+
+.P:hover {
+    color: white;
+    background: green;
+    border-radius: 4px;
+    border: solid 1px green;
+    height:  3rem;
+}
