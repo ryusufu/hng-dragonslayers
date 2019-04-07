@@ -59,7 +59,35 @@ ul li a.active-link {
     color: #086963;
 }
 
-.news-feed {
+.contact-info > main > div {
+  display: grid;
+  grid-template-columns: 10% 50%;
+  padding-bottom: 1em;
+}
+
+.contact-info h3 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: normal;
+    color: #333333;
+    margin-bottom: 1.4em;
+}
+
+.contact-info > main > div .label {
+    font-size: 14px;
+    line-height: normal;
+    font-weight: 500;
+    color: #999999;
+}
+
+.contact-info > main > div .address {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: normal;
+    color: #086963;
+}
+
+.news-feed, .contact-info {
     float: right;
     margin: 50px auto 0 auto;
     padding-right: 30px;
